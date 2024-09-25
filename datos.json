@@ -3,6 +3,7 @@
         "nombre": "Hiroshima",
         "fecha": "2023",
         "signo": "Vestuario",
+        "description": "Proyecto desarrollado a partir de oxido de metales"
         "foto": "https://github.com/user-attachments/assets/c11bd28e-0059-44f9-b57e-99dc539f7997",
         "github": "https://github.com/Jorojasd"
     },
@@ -10,6 +11,7 @@
         "nombre": "Mobiliario Atrapaniebla",
         "fecha": "2023",
         "signo": "Industrial",
+        "description": "Proyecto desarrollado a partir del cerro renca"
         "foto": "https://github.com/user-attachments/assets/1cc5a1b9-2fdd-4b6c-ad1f-aee5122d5530",
         "github": "https://github.com/Jorojasd"
     },
@@ -17,6 +19,7 @@
         "nombre": "Equita",
         "fecha": "2024",
         "signo": "Servicios",
+        "description": "Proyecto desarrollado en el contexto del concurso..."
         "foto": "https://github.com/user-attachments/assets/20d5a97c-3ed2-484c-bf72-35bf5f9f29b1",
         "github": "https://github.com/Jorojasd"
     },
@@ -24,6 +27,7 @@
         "nombre": "KITU",
         "fecha": "2023",
         "signo": "Servicios",
+        "description": "Proyecto desarrollado en conjunto a la region del maule"
         "foto": "https://github.com/user-attachments/assets/7ec92094-50bf-4b99-99c2-29ef80027295",
         "github": "https://github.com/Jorojasd"
     },
@@ -31,6 +35,7 @@
         "nombre": "AI-CAST",
         "fecha": "2024",
         "signo": "Especulativo",
+        "description": "Proyecto desarrollado a partir del planteamiento de futuros ..."
         "foto": "https://github.com/user-attachments/assets/4de14773-15c2-4594-9377-bf04f64381a5",
         "github": "https://github.com/Jorojasd"
     },
@@ -38,6 +43,7 @@
         "nombre": "Organizador de Cautin",
         "fecha": "2024",
         "signo": "Industrial",
+        "description": "Proyecto desarrollado para poner en practica..."
         "foto": "https://github.com/user-attachments/assets/719af2fa-01f1-4f87-9c49-b97c54440834",
         "github": "https://github.com/Jorojasd"
     },
@@ -45,6 +51,7 @@
         "nombre": "Shibori",
         "fecha": "2024",
         "signo": "Vestuario",
+        "description": "Proyecto desarrollado a partir del aprendizaje y aproximamiento a la tecnica del shibori"
         "foto": "https://github.com/user-attachments/assets/3b80d667-ea32-4668-a7bd-24891a1a902a",
         "github": "https://github.com/Jorojasd"
     }
